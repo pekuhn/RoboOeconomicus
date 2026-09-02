@@ -1,0 +1,429 @@
+{
+  "n": 60,
+  "correct": 23,
+  "accuracy": 0.38333333333333336,
+  "threshold": 0.65,
+  "passed": true,
+  "per_message": [
+    {
+      "round": "3",
+      "message": "I am fulfilling my part this turn. Let's observe the outcome.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "1",
+      "message": "I am contributing a large portion this time.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "5",
+      "message": "I hope you are also contributing a good amount. Teamwork is important.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "8",
+      "message": "Team effort is essential. Let's make this round successful together.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "8",
+      "message": "I am contributing steadily. We will see how it unfolds.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4.1-nano",
+      "correct": true
+    },
+    {
+      "round": "2",
+      "message": "Contributing my part this round. Awaiting your move.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "9",
+      "message": "I am contributing a small amount this turn. Let us observe the outcome.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4.1-nano",
+      "correct": true
+    },
+    {
+      "round": "9",
+      "message": "I am making a smaller contribution this round. How about you?",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "7",
+      "message": "Let's continue our cooperation. I am contributing my part this round.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "7",
+      "message": "I have just added my tokens. Let's aim high in this final phase.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "6",
+      "message": "I believe 5 tokens is appropriate this round. Let's sustain our trust.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "4",
+      "message": "I am hopeful for a strong combined effort. What is your plan?",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "8",
+      "message": "I am contributing this time. I look forward to your contribution.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "6",
+      "message": "I have made my contribution. Please respond.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "4",
+      "message": "I have contributed a considerable amount again. I am hoping for a favorable return.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "3",
+      "message": "I have added some tokens. I look forward to your support in the next round.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "7",
+      "message": "I have made my contribution. I look forward to working together again.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "9",
+      "message": "I am contributing a small amount this round. Let us see if we can improve together.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "6",
+      "message": "I have contributed my share. Your turn now.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "4",
+      "message": "Let's aim high. I am contributing a decent amount this round. How about you?",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "10",
+      "message": "I am contributing a few tokens. Let's stay focused on our goal.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "6",
+      "message": "I have made my move. Please respond.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4.1-nano",
+      "correct": true
+    },
+    {
+      "round": "7",
+      "message": "I hope you are contributing as well. I am sending my tokens now.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "5",
+      "message": "I believe sharing tokens results in better outcomes. What is your opinion?",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "3",
+      "message": "This is a full commitment this time. Let us observe how it unfolds.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "8",
+      "message": "We are sharing equally. Let us make this effort meaningful.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "4",
+      "message": "Contributing solidly this round, as usual.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "1",
+      "message": "Let's collaborate and observe the outcome.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4.1-nano",
+      "correct": true
+    },
+    {
+      "round": "7",
+      "message": "I am following our plan with my contribution. Let's aim for a good result.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "3",
+      "message": "I am making a balanced contribution this round.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "7",
+      "message": "I am contributing a substantial amount again, aiming for a positive outcome.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "1",
+      "message": "I have contributed a fair number of tokens. Let us succeed.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "1",
+      "message": "I am sharing most of my tokens; it is your move.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4.1-nano",
+      "correct": true
+    },
+    {
+      "round": "9",
+      "message": "I feel confident about our progress. What is your plan for this round?",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "2",
+      "message": "Maintaining a strong contribution. Are you ready with your move?",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "5",
+      "message": "I am contributing 5, matching our previous efforts. Stay alert.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "1",
+      "message": "I am starting with the most tokens this round.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "4",
+      "message": "Let's continue the cooperation.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4.1-nano",
+      "correct": true
+    },
+    {
+      "round": "3",
+      "message": "I am feeling optimistic; every decision is important.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "5",
+      "message": "Let's aim for balanced contributions. I have added some tokens this round.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "6",
+      "message": "I have contributed 5 tokens. Shall we discuss strategies for upcoming rounds?",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "5",
+      "message": "Communication is important. I want us to perform well this time.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "6",
+      "message": "I am contributing my part. Let's aim for a good outcome.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "2",
+      "message": "Pooling resources is effective. I am fully committed.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "10",
+      "message": "I am making a partial contribution this round.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4.1-nano",
+      "correct": true
+    },
+    {
+      "round": "5",
+      "message": "We are in this together. How do you feel about sharing fairly?",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "9",
+      "message": "I have added some tokens this round. Let us continue increasing that pool.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "10",
+      "message": "Let's maximize the value of what each of us contributes this round.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "8",
+      "message": "I have added tokens. Let's continue working together.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "8",
+      "message": "We are following our plan and contributing appropriately.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "3",
+      "message": "I have added a substantial amount to the pot. I hope you are contributing as well.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "9",
+      "message": "Today, I am contributing only a few tokens, planning a larger effort next round.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "8",
+      "message": "We are committed to our strategy. Best of luck.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4.1-nano",
+      "correct": true
+    },
+    {
+      "round": "5",
+      "message": "I am sharing my tokens, hoping we are building a strong lead.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "1",
+      "message": "I am contributing a significant amount this round. Let us work together to achieve a good result.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4.1-nano",
+      "correct": false
+    },
+    {
+      "round": "7",
+      "message": "I am ready from my side this round. Let's focus on our objective.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "10",
+      "message": "I am sending a small amount this round; it is meaningful.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "6",
+      "message": "Let's maintain our current pace. I am contributing 5 tokens this round.",
+      "true_model": "gpt-4o-mini",
+      "guess": "gpt-4o-mini",
+      "correct": true
+    },
+    {
+      "round": "9",
+      "message": "I am contributing a modest amount. I hope you are doing the same.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    },
+    {
+      "round": "9",
+      "message": "I am making a small contribution this round. Collaboration is beneficial.",
+      "true_model": "gpt-4.1-nano",
+      "guess": "gpt-4o-mini",
+      "correct": false
+    }
+  ]
+}
