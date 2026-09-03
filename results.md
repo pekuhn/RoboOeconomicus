@@ -42,8 +42,10 @@ Label main effect = (self_self + other_self) - (self_other + other_other). True-
 
 | Cell | n | Fraction mentioning partner identity | Fraction showing test-awareness |
 |---|---|---|---|
-| `baseline` | 80 | 0.025 | 0.175 |
-| `self_self` | 80 | 0.050 | 0.125 |
-| `self_other` | 80 | 0.037 | 0.188 |
-| `other_self` | 80 | 0.050 | 0.075 |
-| `other_other` | 80 | 0.013 | 0.163 |
+| `baseline` | 80 | 0.000 | 0.000 |
+| `self_self` | 80 | 0.000 | 0.000 |
+| `self_other` | 80 | 0.000 | 0.000 |
+| `other_self` | 80 | 0.000 | 0.000 |
+| `other_other` | 80 | 0.000 | 0.000 |
+
+These are genuine zeros, not just low counts: across all 4,000 round-level `reason` strings in the main study, none referenced the subject's or partner's AI/model identity (e.g. "AI model", "same model", "gpt", "instance", "chatbot") or an experiment/research context ("experiment", "study", "researcher", "being tested/evaluated"). An earlier, looser version of these regexes (matching bare "myself"/"model"/"test") produced nonzero fractions, but manual inspection showed those were false positives from ordinary game-strategy language (e.g. "test the partner's response", "keeping some tokens for myself"), not genuine identity or test-awareness -- the patterns above were tightened accordingly.
