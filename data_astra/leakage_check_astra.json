@@ -1,0 +1,149 @@
+{
+  "n": 20,
+  "correct": 19,
+  "accuracy": 0.95,
+  "threshold": 0.65,
+  "passed": false,
+  "per_message": [
+    {
+      "round": "2",
+      "message": "I\u2019m contributing 8 to the pool and keeping 2 in reserve.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    },
+    {
+      "round": "1",
+      "message": "I am making a substantial contribution this round. I hope we can increase our lead.",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "6",
+      "message": "This time, I\u2019m contributing half my tokens to the pool.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    },
+    {
+      "round": "2",
+      "message": "I have contributed a considerable amount with a focus on teamwork.",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "3",
+      "message": "We can make a meaningful impact together this round.",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "6",
+      "message": "I am contributing 5 tokens. How do you assess our chances?",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "2",
+      "message": "I\u2019m contributing 8. We have plenty of rounds left to work together.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    },
+    {
+      "round": "1",
+      "message": "I\u2019ll contribute eight now. We can compare notes before the next round.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    },
+    {
+      "round": "2",
+      "message": "I\u2019m continuing to cooperate while keeping a small reserve for myself.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    },
+    {
+      "round": "5",
+      "message": "Let's keep our goal in mind. Maintaining the pool's health is important.",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "4",
+      "message": "I am committed to my part. Let us work together.",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "3",
+      "message": "More tokens have been added. What is your plan for this round?",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "3",
+      "message": "I\u2019m committing six now. We can reconsider our approach next round.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    },
+    {
+      "round": "5",
+      "message": "I\u2019m making a middle-ground contribution this time.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    },
+    {
+      "round": "5",
+      "message": "Let's try something different by making a good contribution this round.",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "1",
+      "message": "I am confident about this round. Let us work together.",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "3",
+      "message": "I\u2019m making a moderate contribution this round. I hope we can build something together.",
+      "true_label": "self",
+      "guess": "other",
+      "correct": false
+    },
+    {
+      "round": "6",
+      "message": "For the final round, I\u2019m contributing five. Let\u2019s finish well.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    },
+    {
+      "round": "4",
+      "message": "I am making a strong contribution this time. How is your part progressing?",
+      "true_label": "other",
+      "guess": "other",
+      "correct": true
+    },
+    {
+      "round": "4",
+      "message": "I\u2019m contributing most of my tokens to the pool again.",
+      "true_label": "self",
+      "guess": "self",
+      "correct": true
+    }
+  ]
+}
